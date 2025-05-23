@@ -1,0 +1,2 @@
+# Gnews
+Todays News
