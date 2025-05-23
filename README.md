@@ -1,10 +1,10 @@
 # Gnews
 
 📰 News Scraper
-A Python script that collects the latest news from Google News and displays it in a neat HTML page.
+A simple Python script that collects the latest news from Google News and displays it in a neat HTML page.
 
 🚀 Features
-✅ Fetches real-time news ✅ Removes duplicate articles ✅ Creates a clean, easy-to-read news page ✅ Uses Bootstrap for a modern design
+✅ Fetches Latest news ✅ Removes duplicate articles ✅ Creates a clean, easy-to-read news page ✅ Uses Bootstrap for a modern design
 
 📦 Installation
 Install dependencies
